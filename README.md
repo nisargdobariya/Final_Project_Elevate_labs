@@ -59,10 +59,10 @@ This tool is intended for **educational and ethical hacking purposes only**. Use
 ## 📸 Screenshots
 
 ### 🔎 Home Scanner UI
-![Scanner UI](./screenshots/1png)
+![Scanner UI](./1png)
 
 ### 📋 Results Section
-![Results Page](./screenshots/2.png)
+![Results Page](./2.png)
 
 ---
 
