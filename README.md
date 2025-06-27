@@ -65,5 +65,3 @@ This tool is intended for **educational and ethical hacking purposes only**. Use
 ![Results Page](./2.png)
 
 ---
-
-## 📂 Project Structure
